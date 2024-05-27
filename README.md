@@ -5,7 +5,7 @@ I'm a French DevOps engineer in the final stages of my studies. Currently, I am 
 
 I'm also developing a Discord bot to learn Rust and sharpening my Kubernetes skills on a k3s cluster. It might seem overkill, but it's definitely fun!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilamb&theme=neon&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Stats&show=prs_merged&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilamb&theme=neon&show_icons=true&rank_icon=github&include_all_commits=false&custom_title=Stats&show=prs_merged&hide=contribs)
 
 ### 🔭 Currently working on ...
 ---
