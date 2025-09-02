@@ -1,7 +1,7 @@
 ## Welcome on Guilamb's profile
 ---
 
-I'm a French DevOps engineer in the final stages of my studies. Currently, I am an apprentice at Orange, where I work on Paas-template, which has recently switch to a private repository.
+I'm a French DevOps engineer.
 
 I'm also developing a Discord bot to learn Rust and sharpening my Kubernetes skills on a k3s cluster. It might seem overkill, but it's definitely fun!
 
